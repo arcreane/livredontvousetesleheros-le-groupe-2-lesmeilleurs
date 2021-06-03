@@ -1,3 +1,0 @@
-Chapeau;168-cowboy-hat.png
-Gemme;157-gem.png
-Dragon;091-dragon.png

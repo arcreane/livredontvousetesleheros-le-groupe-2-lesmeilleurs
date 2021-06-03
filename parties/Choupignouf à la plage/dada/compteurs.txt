@@ -1,4 +1,0 @@
-ECTS;0.0
-Amis;5.0
-Beauté;0.0
-propreté;1.0

@@ -1,3 +1,0 @@
-Patience;0.0
-Faim;0.0
-Soif;-1.0

@@ -1,6 +1,0 @@
-hook;003-police-badge.png
-Police;002-police.png
-Crochet;048-harp.png
-Kangourou;068-iphone.png
-Ballon;073-football.png
-ile;015-treasure-2.png
