@@ -1,0 +1,3 @@
+Eau;126-drop.png
+Chapeau;168-cowboy-hat.png
+Gemme;157-gem.png
