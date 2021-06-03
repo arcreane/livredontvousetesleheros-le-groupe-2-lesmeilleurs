@@ -1189,10 +1189,9 @@ def listObjet(win,partie:Partie):
         verticalLayout.addWidget(label_2, 0, QtCore.Qt.AlignHCenter)
         label = QLabel()
         label.setEnabled(True)
-        label.setMinimumSize(QtCore.QSize(64, 20))
-        label.setMaximumSize(QtCore.QSize(64, 20))
         label.setObjectName("label")
         label.setText(objet.nom)
+        label.setWordWrap(True)
         verticalLayout.addWidget(label, 0, QtCore.Qt.AlignHCenter)
 
         win.lay_list[-1].addLayout(verticalLayout)
@@ -1200,7 +1199,6 @@ def listObjet(win,partie:Partie):
 
 def run():
     """Lance le programme"""
-
 
     app = QApplication.instance()
     app = QApplication(sys.argv)

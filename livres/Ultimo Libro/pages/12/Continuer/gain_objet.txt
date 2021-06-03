@@ -1,0 +1,2 @@
+Arme dangereuse;124-rifle.png
+Carte de Sorcière ;138-location.png
